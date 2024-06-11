@@ -1,14 +1,9 @@
-# **PEMOGRAMAAN WEB**
----
-|**Nama :** _Muhamad Jati Wasesa_|
-===================================
-|**NIM :|** _312110481_|
-
-|**Kelas :|** _TI.22.A.5|_
----
-**Teknik Informatika - UNIVERSITAS PELITA BANGSA**
-
----
+|Nama |_Muhamad Jati Wasesa_|
+| :- | :- |
+|**Nim** |_312210481_|
+|**Kelas** |_TI.22.A.5_|
+|**Mata Kuliah**|_Pemgraman Web 2_|
+|**Tugas** |_Praktikum 7_|
 
 ![gambar](README_img/Codeigniter.png)
 ![gambar](README_img/postman_logo.png)
