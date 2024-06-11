@@ -1,11 +1,11 @@
 # **PEMOGRAMAAN WEB**
+---
+|**Nama :** _Muhamad Jati Wasesa_|
+===================================
+|**NIM :|** _312110481_|
 
-**Nama :** _Dean Adriansyah Asy'ari_
-
-**NIM :** _312110286_
-
-**Kelas :** _TI.21.A2_
-
+|**Kelas :|** _TI.22.A.5|_
+---
 **Teknik Informatika - UNIVERSITAS PELITA BANGSA**
 
 ---
@@ -183,10 +183,9 @@ php spark routes
 ```
 
 - Selanjutnya akan muncul daftar route yang telah dibuat.
+![routes1](https://github.com/Muhjat7/praktikum7/assets/129918243/f6ea507d-f65b-4522-97e4-057a60f32a91)
 
-![Routes](README_img/routes1.png)
 ![Routes](README_img/routes2.png)
-![Routes](README_img/routes3.png)
 
 - Seperti yang terlihat, satu baris kode routes yang di tambahkan akan menghasilkan banyak
 Endpoint.
@@ -212,7 +211,7 @@ seperti ini: http://localhost:8080/post/2
 - Selanjutnya, klik Send. Request tersebut akan menampilkan data artikel yang memiliki ID
 nomor 2 di database.
 
-![Menampilkan Data Spesifik di Postman](README_img/menampilkan_2.png)
+![menampilkan_2](https://github.com/Muhjat7/praktikum7/assets/129918243/783be0ea-5618-4ab3-9b49-665159b61455)
 
 ### Mengubah Data
 - Untuk mengubah data, silakan ganti method menjadi PUT. Kemudian, masukkan URL artikel
@@ -232,5 +231,3 @@ database.
 ![Menghapus Data di Postman](README_img/delete.png)
 
 ---
-
-# <P align="center"> THANK YOU SO MUCH FOR YOUR ATTENTION!! SEE YOU SOON!!
