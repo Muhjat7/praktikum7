@@ -19,7 +19,6 @@
 ### Instruksi Praktikum
 
 - Persiapkan text editor misalnya VSCode.
-- Buat folder baru dengan nama lab12_php_ci pada docroot webserver (htdocs)
 - Ikuti langkah-langkah praktikum yang akan dijelaskan berikutnya.
 
 ---
